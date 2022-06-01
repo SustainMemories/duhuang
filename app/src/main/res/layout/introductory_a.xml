@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bg5">
+    <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="856dp"
+            android:layout_height="1653dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="-620dp"
+            android:src="@drawable/ft" />
+    <ImageView
+            android:layout_width="26dp"
+            android:layout_height="26dp"
+            android:src="@drawable/ic_syh"
+            android:layout_marginLeft="140dp"
+            android:layout_marginTop="340dp"/>
+
+    <TextView
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:textSize="38dp"
+            android:text="煌，盛也。"
+            android:layout_marginLeft="310dp"
+            android:textColor="#826C48"
+            android:layout_marginTop="480dp"/>
+    <ImageView
+            android:layout_width="26dp"
+            android:layout_height="26dp"
+            android:src="@drawable/ic_xyh"
+            android:layout_marginLeft="390dp"
+            android:layout_marginTop="700dp"/>
+
+    <TextView
+            android:id="@+id/textView2"
+            android:layout_width="38dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="190dp"
+            android:layout_marginTop="400dp"
+            android:text="敦，大也。"
+            android:textColor="#826C48"
+            android:textSize="40dp" />
+
+    <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/hua"
+            android:layout_marginTop="770dp"
+            android:layout_marginLeft="90dp"/>
+
+</FrameLayout>
