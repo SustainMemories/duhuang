@@ -21,22 +21,10 @@ public class IntroducttoryActivity extends AppCompatActivity {
         setContentView(R.layout.activity_introducttory);
         initView();
         initAdapter();
-        initStart();
+
 
     }
 
-    /**
-     * 设置第三个引导页的textView文本的点击事件
-     */
-    private void initStart() {
-        mTextView=viewList.get(2).findViewById(R.id.tv_start);
-        mTextView.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                startActivity(new Intent(IntroducttoryActivity.this,MainActivity.class));
-            }
-        });
-    }
 
     /**
      * 适配器

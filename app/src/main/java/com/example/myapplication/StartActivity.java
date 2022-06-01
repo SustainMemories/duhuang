@@ -15,10 +15,12 @@ public class StartActivity extends AppCompatActivity {
     }
 
     private void initView() {
-        SharedPreferences sp=getSharedPreferences("name",MODE_PRIVATE);
 
             startActivity(new Intent(StartActivity.this,IntroducttoryActivity.class));
-        }
+
+    }
+
+
 
 
     }
