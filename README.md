@@ -33,3 +33,10 @@
   - 功能：点击图片跳转到相应类别的子界面中。举例：点击第一张图片（假如是写着“飞天莲花藻井”的图片），然后跳转到secondfirst界面（就在下面）；点击第二张图片，跳转到secondsecond界面（还没建xml，但是布局是一样的，到时候功能实现后复制粘贴就行）.....以此类推，
 ***
 - 飞天莲花藻井子界面
+  - ![image](https://user-images.githubusercontent.com/106669055/171622076-16eec147-f1ca-4b32-8b69-b1f088a1c22f.png)
+  - ![image](https://user-images.githubusercontent.com/106669055/171622107-52d1aae5-8475-4a93-8e53-8c2b1b538574.png)
+  - ![image](https://user-images.githubusercontent.com/106669055/171622151-0c012154-2d7d-43ca-95e1-901ed5eb4532.png)
+  - ![image](https://user-images.githubusercontent.com/106669055/171622191-c1500ebb-6fd6-4d45-b04a-c594003a6c4d.png)
+
+
+
