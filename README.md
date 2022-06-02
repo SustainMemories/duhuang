@@ -37,6 +37,7 @@
   - ![image](https://user-images.githubusercontent.com/106669055/171622107-52d1aae5-8475-4a93-8e53-8c2b1b538574.png)
   - ![image](https://user-images.githubusercontent.com/106669055/171622151-0c012154-2d7d-43ca-95e1-901ed5eb4532.png)
   - ![image](https://user-images.githubusercontent.com/106669055/171622191-c1500ebb-6fd6-4d45-b04a-c594003a6c4d.png)
+  - 功能：因为子界面是图片加文字的布局，所以想点击每个子界面的每张图，再跳转到另一个界面，并获取到图的效果（跟首页每张图跳转子界面的功能相似，就是添加了获取到图片的功能，如果实现不了可以直接建界面进行跳转）
 
 
 
