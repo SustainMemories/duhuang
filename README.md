@@ -30,7 +30,7 @@
   - ![image](https://user-images.githubusercontent.com/106669055/171620030-7b9cf26a-5b2e-41bf-b54e-89ee3295af12.png)
   - ![image](https://user-images.githubusercontent.com/106669055/171620294-0ffafcce-7062-46dd-a74e-c954bcf298fe.png)
   - ![image](https://user-images.githubusercontent.com/106669055/171620323-5caad1f5-88b9-47bb-9722-e5fb4e6095a6.png)
-  - 功能：点击图片跳转到相应类别的子界面中。举例：点击第一张图片（假如是写着“飞天莲花藻井”的图片），然后跳转到secondfirst界面（就在下面）；点击第二张图片，跳转到secondsecond界面（还没建xml，但是布局是一样的，到时候功能实现后复制粘贴就行）.....以此类推，
+  - 功能：点击图片跳转到相应类别的子界面中。举例：点击第一张图片（假如是写着“飞天莲花藻井”的图片），然后跳转到secondfirst界面（就在下面）；点击第二张图片，跳转到secondsecond界面（还没建xml，但是布局是一样的，到时候功能实现后复制粘贴就行）.....以此类推。
 ***
 - 飞天莲花藻井子界面
   - ![image](https://user-images.githubusercontent.com/106669055/171622076-16eec147-f1ca-4b32-8b69-b1f088a1c22f.png)
